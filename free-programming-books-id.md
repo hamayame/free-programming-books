@@ -5,6 +5,7 @@
 * [HTML & CSS](#html-css)
 * [JavaScript](#javascript)
 * [PHP](#php)
+* [Database](#database)
 
 
 ### Android
@@ -16,6 +17,7 @@
 ### Git
 
 * [Pro Git 1st Edition](https://git-scm.com/book/id/v1)
+* Kontrol Versi dengan Git : [Web](https://bertzzie.com/filter/category/git) & [Leanpub | PDF (Register first)](https://leanpub.com/kontrol-versi-git)
 
 
 ### HTML CSS
@@ -32,6 +34,7 @@
 ### Node.js
 
 * [Belajar Node.js](http://idjs.github.io/belajar-nodejs/) 
+* [Node.js Succinctly (Register first)](https://www.syncfusion.com/resources/techportal/details/ebooks/nodejs)
 
 
 ### NoSQL
@@ -42,3 +45,9 @@
 ### PHP
 
 * [Tutorial Ebook PHP](http://www.4shared.com/rar/CtmMQ24E/Ebook_Tutorial_PHP.html)
+
+
+### Database
+
+* [MongoDB Succinctly (Register first)](https://www.syncfusion.com/resources/techportal/details/ebooks/mongodb)
+
